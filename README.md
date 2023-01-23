@@ -1,3 +1,8 @@
+#Simple todo app 
+![image](https://user-images.githubusercontent.com/105097758/214040461-4056da21-b1e2-48ab-9e29-5943ead57673.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
