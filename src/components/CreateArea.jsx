@@ -55,7 +55,7 @@ function display() {
           name="content"
           onChange={handleChange}
           value={note.content}
-          placeholder="Take a note..."
+          placeholder="Take a note...."
           rows="3"
         />
         <Zoom in={true}><Fab onClick={submitNote}><AddIcon/></Fab></Zoom>
